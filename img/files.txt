@@ -1,0 +1,8 @@
+Name
+----
+1_verificar_paciente.gif
+2_verificar_diagnostico.gif
+3_indicacion.gif
+4_generar_receta.gif
+5_enviarsms.gif
+banner1x.png
