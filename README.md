@@ -55,10 +55,11 @@
 
    > **Medicamentos del Programa de HTA y DBT:** Deben agruparse en una receta (máximo de 4 medicamentos). Si hay más de 4, se generan varias recetas.
 
-4. Hacer clic en **Generar Receta**. Esto creará un archivo PDF con la receta electrónica.
-5. Verificar que la receta se generó con los datos correctos del paciente, medicamentos, diagnóstico y firma del profesional.
+4. Hacer clic en el botón **Generar Receta** que se encuentra en la parte inferior de la pantalla. Esto abrirá un cuadro donde se puede especificar la cantidad de cajas según la cantidad de comprimidos. Si la cantidad de comprimidos corresponde a una caja completa, se coloca "1". Si son dos cajas, se coloca "2". Si la cantidad de comprimidos no alcanza a completar una caja, se debe colocar "0".
+5. Hacer clic en el botón **Generar Receta** que se encuentra en la parte inferior del cuadro mencionado anteriormente. Esto creará un archivo PDF con la receta electrónica.
+6. Verificar que la receta se generó con los datos correctos del paciente, medicamentos, diagnóstico y firma del profesional.
 
-![4_generar_receta2-ezgif com-optimize](https://github.com/ssycdv/receta_electronica/raw/main/img/4_generar_receta.gif)
+![4_generar_receta2-ezgif com-optimize](https://github.com/ssycdv/receta_electronica/raw/main/img/4_generar_receta_cajas.gif)
 
 ### **3.3 Enviar receta al Paciente**
 1. Acceder al apartado **Histórico Receta**.
