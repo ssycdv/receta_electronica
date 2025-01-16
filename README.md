@@ -33,7 +33,7 @@
 1. Acceder a la pestaña **Prescripción Electrónica**.
 2. Visualizar las indicaciones activas, junto con la fecha y el médico solicitante.
 3. Hacer clic en el botón **Agregar**.
-4. Buscar el medicamento por su nombre genérico.
+4. Buscar el medicamento por su nombre genérico. (Si el medicamento buscado no aparece intentar buscarlo con otra denominación. Por ejemplo, Penicilina se puede buscar como Bencilpenicilina).
 5. Seleccionar la presentación adecuada.
 6. Completar los datos necesarios:
    - **Dosis:** Cantidad prescrita.
@@ -73,3 +73,13 @@
 Elaborado por:
 
 ![HRecurso 1-100](https://github.com/ssycdv/receta_electronica/raw/main/img/banner1x.png)
+
+Revisado por: Servicio de Capacitación y Atención a Usuarios. Parque de la Salud.
+
+![logoparque](https://github.com/user-attachments/assets/94dae9d0-c633-4028-9248-8fc807c1f069)
+
+---
+
+Versión actualizada el 15/01/2025
+
+
