@@ -33,7 +33,7 @@
 1. Acceder a la pestaña **Prescripción Electrónica**.
 2. Visualizar las indicaciones activas, junto con la fecha y el médico solicitante.
 3. Hacer clic en el botón **Agregar**.
-4. Buscar el medicamento por su nombre genérico. (Si el medicamento buscado no aparece intentar buscarlo con otra denominación. Por ejemplo, Penicilina se puede buscar como Bencilpenicilina).
+4. Buscar el medicamento por su nombre seleccionando "Genérico". Si no aparece intentar buscarlo con otra denominación (Por ejemplo, Penicilina se puede buscar como Bencilpenicilina). En el caso de que el medicamento no figure en "Génerico" se debe buscar en "Otros". Si no se encuentra en ninguna de las opciones, informe al servicio de CAPACITACIÓN.
 5. Seleccionar la presentación adecuada.
 6. Completar los datos necesarios:
    - **Dosis:** Cantidad prescrita.
@@ -80,6 +80,6 @@ Revisado por: Servicio de Capacitación y Atención a Usuarios. Parque de la Sal
 
 ---
 
-Versión actualizada el 15/01/2025
+Versión actualizada el 28/01/2025
 
 
